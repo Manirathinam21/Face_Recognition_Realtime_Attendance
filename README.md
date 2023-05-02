@@ -2,13 +2,13 @@
 Attendance marking based on the facial recognition
 
 
-## we can use google firebase as Database for storing information and firebase storage to store image
+### we can use google firebase as Database for storing information and firebase storage to store image
 
-#### To create a new DB --> firebase  --> build --> realtime database --> lock mode or test mode --> enable
+#### *To create a new DB --> firebase  --> build --> realtime database --> lock mode or test mode --> enable
 
-#### To create a storage bucket --> firebase  --> build --> storage --> lock mode or test mode --> enable 
+#### *To create a storage bucket --> firebase  --> build --> storage --> lock mode or test mode --> enable 
 
-#### In Firebase tool --> project settings --> service accounts --> python --> generate new private key --> will get ServiceAccountKey.json file & respective python code 
+#### *Firebase tool --> project settings --> service accounts --> python --> generate new private key --> will get ServiceAccountKey.json file & respective python code 
 
 ## how face recognition attendance system worikng?
 
